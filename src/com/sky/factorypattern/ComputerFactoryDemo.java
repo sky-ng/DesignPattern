@@ -1,7 +1,7 @@
 package com.sky.factorypattern;
 
 /**
- * 工厂模式测试
+ * 工厂模式测试类
  * @author 12874
  *
  */
