@@ -1,4 +1,4 @@
-package com.sky.abstractfactorypattern;
+package com.sky.pattern.abstractfactory;
 
 /**
  * 华硕类

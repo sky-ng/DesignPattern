@@ -1,4 +1,4 @@
-package com.sky.factorypattern;
+package com.sky.pattern.factory;
 
 /**
  * 联想类

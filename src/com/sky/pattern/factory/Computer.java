@@ -1,4 +1,4 @@
-package com.sky.factorypattern;
+package com.sky.pattern.factory;
 
 /**
  * 电脑接口

@@ -1,4 +1,4 @@
-package com.sky.abstractfactorypattern;
+package com.sky.pattern.abstractfactory;
 
 /**
  * 价格接口

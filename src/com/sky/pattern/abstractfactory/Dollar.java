@@ -1,4 +1,4 @@
-package com.sky.abstractfactorypattern;
+package com.sky.pattern.abstractfactory;
 
 public class Dollar implements Price {
 
